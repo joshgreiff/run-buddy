@@ -12,3 +12,5 @@ https://joshgreiff.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Josh 
+
+# Run Buddy Inc.
